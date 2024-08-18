@@ -2,7 +2,9 @@ package com.alibou.product;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
+import org.springframework.stereotype.Service;
 
+@Service
 public class ProductMapper {
   public Product toProduct(@Valid ProductRequest request) {
     return Product.builder()
