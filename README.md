@@ -1,3 +1,4 @@
 Spring boot microservice for learning
 
-![image](https://github.com/user-attachments/assets/f42e1726-fd58-4bd7-b05c-019965e6ef25)
+
+![Untitled Diagram-global-architecture drawio](https://github.com/user-attachments/assets/a369a200-e8a7-4592-80f7-063fe58b4a6e)
